@@ -1,1 +1,1 @@
-# Truffle
+# Truffle Suite
